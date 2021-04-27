@@ -5,4 +5,3 @@ c = n // 100 % 10
 m = n // 1000 % 10
 print(f'analisando o número {n}...')
 print(f'unidade: {u} \n dezena {d} \n centena: {c} \n milhar: {m}')
-#git init git status git add git commit -m "mensagem"   git push -u origin master
